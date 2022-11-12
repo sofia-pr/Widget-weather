@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Widget weather!
 
 React app, que te permite tipear una ciudad y visualizar informacion del clima y el mapa de la misma.
 
